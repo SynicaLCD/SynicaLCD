@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **python, data testing**
 
-- 📫 How to reach me **kessel1442@gmail.com**
-
 - ⚡ Fun fact **I am a newbie when it comes to coding.**
 
 <h3 align="left">Connect with me:</h3>
